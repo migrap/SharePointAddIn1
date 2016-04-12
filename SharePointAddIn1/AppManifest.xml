@@ -1,0 +1,10 @@
+﻿<!--Created:cbbc9d22-5cf7-4e4c-8ee9-42a772aae58a-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" ProductID="{72f50f11-1c08-425c-bb73-7008377897aa}" Version="1.0.0.0" SharePointMinVersion="15.0.0.0" Name="SharePointAddIn1">
+  <Properties>
+    <Title>SharePointAddIn1</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>
